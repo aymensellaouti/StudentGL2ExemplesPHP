@@ -1,0 +1,9 @@
+#succes{
+    background-color: lawngreen;
+    border-radius: 10px;
+}
+
+#error{
+    background-color: lightsalmon;
+    border-radius: 10px;
+}
