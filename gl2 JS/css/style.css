@@ -1,0 +1,15 @@
+#ampoule{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+}
+
+.white{
+    color: black;
+    background-color: white;
+}
+
+.black{
+    color: white;
+    background-color: black;
+}
